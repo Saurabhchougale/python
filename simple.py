@@ -1,0 +1,7 @@
+print("Hello World", 7)
+print(5)
+print("Bye")
+print(25+15)
+print(45-24)
+print(26*65)
+print(15/5)
